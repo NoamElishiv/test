@@ -1,0 +1,76 @@
+.img{
+      box-shadow: 27px 30px 5px 0px rgba(227,148,227,1);
+      border-radius: 59px 59px 0px 59px;
+-moz-border-radius: 59px 59px 0px 59px;
+-webkit-border-radius: 59px 59px 0px 59px;
+border: 8px solid #e314e3;
+    }
+body {
+  /* Center the form on the page */
+  text-align: center;
+
+}
+
+  
+h1 h11{
+  font-family: "Rubik Doodle Shadow", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+th{
+    background-color: #ebafd9;
+}
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.form {
+    background-color: #ebafd9 ;
+  display: inline-block ;
+  /* Form outline */
+  padding: 1em;
+  border: 1px solid #dd590d;
+  border-radius: 3em;
+}
+
+.left {
+float: left;
+width: 80%;
+}
+
+.righ {
+    float:  right;
+width: 20%;
+}
+p + p {
+  margin-top: 1em;
+}
+
+label {
+  /* Uniform size & alignment */
+  display: inline-block;
+  min-width: 90px;
+  text-align: right;
+}
+
+
+
+.button {
+  /* Align buttons with the text fields */
+  padding-left: 40px; /* same size as the label elements */
+  scroll-margin-top:
+}
+
+ a:link {
+    color: #dd590d;
+ }
+a:hover
+{
+background-color: aqua;
+}
